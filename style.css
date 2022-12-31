@@ -1,6 +1,7 @@
 .imagen{
-    width: 100px;
-    height: 100px;
-    background-size: cover;
+    width: 75px;
+    height: 75px;
+    background-size:contain;
+    background-repeat: no-repeat;
     background-image: url(/imagenes/logo.png);
 }
