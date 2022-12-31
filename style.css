@@ -1,7 +1,9 @@
 .imagen{
-    width: 75px;
-    height: 75px;
-    background-size:contain;
-    background-repeat: no-repeat;
-    background-image: url("imagenes/javascript.png");
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+
+.imagen img{
+    width: 100px;
 }
